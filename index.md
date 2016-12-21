@@ -26,15 +26,15 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 ## Founding Members
 
-Teacher Advisor: Vic Ng Chi Wai
+**Teacher Advisor** / Vic Ng Chi Wai
 
-President / Jordan Fung Tsz Chun ([Website](http://www.jordanfung.com))
+**President** / Jordan Fung Tsz Chun ([Website](http://www.jordanfung.com))
 
-Vice President / Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+**Vice President** / Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-Lead secretary / Joseph Li Hoi Ming
+**Lead Secretary** / Joseph Li Hoi Ming
 
-Internal secretary / Yves Lo Yin Chung
+**Internal Secretary** / Yves Lo Yin Chung
 
 Financial secretary / Alvin Hung Wai Chun
 
