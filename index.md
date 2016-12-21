@@ -20,7 +20,7 @@ Our eLearning platform developed for students by students, incorporating cloud t
 
 ### Modern Technologies
 
-Being in close relationship with major technology corporations, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
+Being in close relationship with major technology companies, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
 
 ## Founding Members
 
