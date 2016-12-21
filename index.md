@@ -44,6 +44,6 @@ Designer: **Justin Wong Kong Ki**
 
 Email: developer001@cswcss.edu.hk
 
-Phone: +85-2741-5034
+Phone: +852-2741-5034
 
 Address: 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
