@@ -19,9 +19,9 @@ Founding Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.w
 
 Founding Treasurer: **Alvin Hung Wai Chun**
 
-Founding Secretary: **Joseph Li Hoi Ming
+Founding Secretary: **Joseph Li Hoi Ming**
 
-Founding Secretary of External Affairs: Zachariah Chang Shu Wei**
+Founding Secretary of External Affairs: **Zachariah Chang Shu Wei**
 
 Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, **Hadrian Tang Wai To**, **Justin Wong Kong Ki**
 
