@@ -2,27 +2,9 @@
 title: CSWCSS InnoTech Society
 ---
 
-# Innovative Technology Society of Cheung Sha Wan Catholic Secondary School of Hong Kong
-
 ## Aim
 
 Founded in September 2016, we aim to promote the use and development of innovative technologies in the School and in the region.
-
-## Founding Members
-
-Techer Advisor: **Vic Ng Chi Wai**
-
-President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
-
-Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
-
-Secretaries: **Joseph Li Hoi Ming**, **Alvin Hung Wai Chun**, **Zachariah Chang Shu Wei**
-
-Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, 
-
-Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
-
-Designer: **Justin Wong Kong Ki**
 
 ## Current Project
 
@@ -39,3 +21,19 @@ Our eLearning platform developed for students by students, incorporating cloud t
 ### Modern Technologies
 
 Being in close relationship with major technology corporations, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
+
+## Founding Members
+
+Techer Advisor: **Vic Ng Chi Wai**
+
+President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
+
+Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+
+Secretaries: **Joseph Li Hoi Ming**, **Alvin Hung Wai Chun**, **Zachariah Chang Shu Wei**
+
+Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, 
+
+Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
+
+Designer: **Justin Wong Kong Ki**
