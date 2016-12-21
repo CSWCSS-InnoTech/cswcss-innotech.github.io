@@ -4,7 +4,7 @@ title: CSWCSS InnoTech Society
 
 # Innovative Technology Society of Cheung Sha Wan Catholic Secondary School of Hong Kong
 
-## Our Aims
+## Aim
 
 Founded in September 2016, we aim to promote the use and development of innovative technologies in the School and in the region.
 
