@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Innovative Technology Society of Cheung Sha Wan Catholic Secondary School of Hong Kong
 
-You can use the [editor on GitHub](https://github.com/CSWCSS-InnoTech/cswcss-innotech.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Our Aims
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Founded in September 2016, we aim to promote the use and development of innovative technologies in the School and in the region.
 
-### Markdown
+## Founding Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Founding Techer Advisor: **Vic Ng Chi Wai**
 
-```markdown
-Syntax highlighted code block
+Founding President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
 
-# Header 1
-## Header 2
-### Header 3
+Founding Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-- Bulleted
-- List
+Founding Treasurer: **Alvin Hung Wai Chun**
 
-1. Numbered
-2. List
+Founding Secretary: **Joseph Li Hoi Ming
 
-**Bold** and _Italic_ and `Code` text
+Founding Secretary of External Affairs: Zachariah Chang Shu Wei**
 
-[Link](url) and ![Image](src)
-```
+Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, **Hadrian Tang Wai To**, **Justin Wong Kong Ki**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Current Project
 
-### Jekyll Themes
+### STEM Collaboration with Good Counsel Catholic Primary School
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CSWCSS-InnoTech/cswcss-innotech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In partnership with Dyson, ICT-in-PE Foundation and other organizations, we have launched a STEM collaboration programme with Good Counsel Catholic Primary School. A total of 20 primary 5 and 6 students at Good Counsel are taught by InnoTech members on how to develop apps using MIT App Inventor 2. 
 
-### Support or Contact
+The aim of the project is to raise awareness of our increasing carbon footprint and promote ways to tackle the problem. We collect data about the use of tissue paper and dryers for drying hands, store the data with cloud technologies, analyse and calculate the carbon footprint, finally presenting the result using interactive ways and infographics.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### InnoTech eLearn Platform
+
+Our eLearning platform developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using Xamarin for iOS, Android, and Windows Phone.
+
+### Modern Technologies
+
+Being in close relationship with major technology corporations, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
