@@ -44,8 +44,7 @@ Alvin Hung Wai Chun
 External secretary:
 Zachariah Chang Shu Wei
 
-Right? Wrong?
-Coordinators: Austin Chan Chi Heng, Andrew Lee Ho Wang, 
+Coordinators: Austin Chan Chi Heng, Andrew Lee Ho Wang
 
 Lead Developer (Mobile Apps): Hadrian Tang Wai To
 
