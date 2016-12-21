@@ -11,17 +11,13 @@ Founded in September 2016, we aim to promote the use and development of innovati
 
 ## Founding Members
 
-Founding Techer Advisor: **Vic Ng Chi Wai**
+Techer Advisor: **Vic Ng Chi Wai**
 
-Founding President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
+President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
 
-Founding Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-Founding Treasurer: **Alvin Hung Wai Chun**
-
-Founding Secretary: **Joseph Li Hoi Ming**
-
-Founding Secretary of External Affairs: **Zachariah Chang Shu Wei**
+Secretaries: **Joseph Li Hoi Ming**, **Alvin Hung Wai Chun**, **Zachariah Chang Shu Wei**
 
 Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, **Hadrian Tang Wai To**, **Justin Wong Kong Ki**
 
