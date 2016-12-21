@@ -36,20 +36,20 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 **Internal Secretary** / Yves Lo Yin Chung
 
-Financial secretary / Alvin Hung Wai Chun
+**Financial Secretary** / Alvin Hung Wai Chun
 
-External secretary / Zachariah Chang Shu Wei
+**External Secretary** / Zachariah Chang Shu Wei
 
-Coordinators / Austin Chan Chi Heng / Andrew Lee Ho Wang
+**Coordinators** / Austin Chan Chi Heng / Andrew Lee Ho Wang
 
-Developer / Hadrian Tang Wai To
+**Developer** / Hadrian Tang Wai To
 
-Designer / Justin Wong Kong Ki
+**Designer** / Justin Wong Kong Ki
 
 ## Contact Us
 
-Email / developer001@cswcss.edu.hk
+**Email** / developer001@cswcss.edu.hk
 
-Phone / +852-2741-5034
+**Phone** / +852-2741-5034
 
-Address / 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
+**Address** / 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
