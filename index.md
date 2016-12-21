@@ -19,7 +19,11 @@ Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.co
 
 Secretaries: **Joseph Li Hoi Ming**, **Alvin Hung Wai Chun**, **Zachariah Chang Shu Wei**
 
-Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, **Hadrian Tang Wai To**, **Justin Wong Kong Ki**
+Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, 
+
+Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
+
+Designer: **Justin Wong Kong Ki**
 
 ## Current Project
 
