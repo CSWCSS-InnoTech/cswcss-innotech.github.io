@@ -1,5 +1,6 @@
 ---
 title: CSWCSS InnoTech Society
+tagline: Innovative Technology Society of Cheung Sha Wan Catholic Secondary School of Hong Kong
 ---
 
 # Innovative Technology Society of Cheung Sha Wan Catholic Secondary School of Hong Kong
