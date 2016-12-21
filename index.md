@@ -6,7 +6,7 @@ title: CSWCSS InnoTech Society
 
 Founded in September 2016, we aim to promote the use and development of innovative technologies in the School and in the region.
 
-![Group Photo of InnoTech members at the School Open Day 2016.](https://raw.githubusercontent.com/CSWCSS-InnoTech/cswcss-innotech.github.io/master/group-photo.jpg)
+![Group Photo of InnoTech members at the School Open Day 2016.](https://raw.githubusercontent.com/CSWCSS-InnoTech/cswcss-innotech.github.io/master/group-photo2.jpg)
 
 ## Current Project
 
