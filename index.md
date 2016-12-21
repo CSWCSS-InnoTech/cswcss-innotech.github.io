@@ -39,3 +39,11 @@ Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**,
 Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
 
 Designer: **Justin Wong Kong Ki**
+
+## Contact Us
+
+Email: developer001@cswcss.edu.hk
+
+Phone: +85-2741-5034
+
+Address: 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
