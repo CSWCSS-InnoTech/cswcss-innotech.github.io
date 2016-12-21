@@ -28,32 +28,28 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 Teacher Advisor: Vic Ng Chi Wai
 
-President: Jordan Fung Tsz Chun ([Personal Website](http://www.jordanfung.com))
+President / Jordan Fung Tsz Chun ([Website](http://www.jordanfung.com))
 
-Vice President: Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+Vice President / Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-Lead secretary:
-Joseph Li Hoi Ming
+Lead secretary / Joseph Li Hoi Ming
 
-Internal secretary:
-Yves Lo Yin Chung
+Internal secretary / Yves Lo Yin Chung
 
-Financial secretary: 
-Alvin Hung Wai Chun
+Financial secretary / Alvin Hung Wai Chun
 
-External secretary:
-Zachariah Chang Shu Wei
+External secretary / Zachariah Chang Shu Wei
 
-Coordinators: Austin Chan Chi Heng, Andrew Lee Ho Wang
+Coordinators / Austin Chan Chi Heng / Andrew Lee Ho Wang
 
-Lead Developer (Mobile Apps): Hadrian Tang Wai To
+Developer / Hadrian Tang Wai To
 
-Designer: Justin Wong Kong Ki
+Designer / Justin Wong Kong Ki
 
 ## Contact Us
 
-Email: developer001@cswcss.edu.hk
+Email / developer001@cswcss.edu.hk
 
-Phone: +852-2741-5034
+Phone / +852-2741-5034
 
-Address: 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
+Address / 533 Fuk Wing Street, Cheung Sha Wan, Kowloon, Hong Kong
