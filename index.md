@@ -26,19 +26,30 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 ## Founding Members
 
-Techer Advisor: **Vic Ng Chi Wai**
+Techer Advisor: Vic Ng Chi Wai
 
-President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
+President: Jordan Fung Tsz Chun ([Personal Website](http://www.jordanfung.com))
 
-Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+Vice President: Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-Secretaries: **Joseph Li Hoi Ming**, **Alvin Hung Wai Chun**, **Zachariah Chang Shu Wei**
+Lead secretary:
+Joseph Li Hoi Ming
 
-Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, 
+Internal secretary:
+Yves Lo Yin Chung
 
-Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
+Financial secretary: 
+Alvin Hung Wai Chun
 
-Designer: **Justin Wong Kong Ki**
+External secretary:
+Zachariah Chang Shu Wei
+
+Right? Wrong?
+Coordinators: Austin Chan Chi Heng, Andrew Lee Ho Wang, 
+
+Lead Developer (Mobile Apps): Hadrian Tang Wai To
+
+Designer: Justin Wong Kong Ki
 
 ## Contact Us
 
