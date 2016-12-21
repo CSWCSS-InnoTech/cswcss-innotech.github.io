@@ -26,7 +26,7 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 ## Founding Members
 
-Techer Advisor: Vic Ng Chi Wai
+Teacher Advisor: Vic Ng Chi Wai
 
 President: Jordan Fung Tsz Chun ([Personal Website](http://www.jordanfung.com))
 
