@@ -24,6 +24,13 @@ Our eLearning platform developed for students by students, incorporating cloud t
 
 Being in close relationship with major technology companies, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
 
+### Participation in AppJamming Summit 2017
+
+Our 3 Android Apps Team presented their apps at AppJamming Summit competition semi-finals organised by First Code Academy on March 19. Pedosa Lifestyle by our president, Jordan Fung, got the Best Presentation Award.
+1. FitNest by Kwan Lik Hang, Jack Yeung
+2. Pedosa® Lifestyle by Jordan Fung
+3. Animation Life by Justin Wong, Joseph Li, Lee Law Louis Lam
+
 ## Founding Members
 
 **Teacher Advisor** / Vic Ng Chi Wai
