@@ -6,11 +6,14 @@ title: CSWCSS InnoTech Society
 
 Founded in September 2016, we aim to promote the use and development of innovative technologies in [Cheung Sha Wan Catholic English Secondary School](http://www.cswcss.edu.hk/index/customIndex.aspx?nnnid=1) and in the region.
 
+Cheung Sha Wan Catholic Secondary School (CSWCSS) is one of Hong Kong's leading English boys' schools.
+Being selected by the Government of Hong Kong to receive a funding of HK$7 million to promote STEM education, the school have been promoting such development over the past years through running the [Enriched IT programme](https://www.eitp.gov.hk/en/it-class-cswcss), and the formation of their Innovative Technology Society.
+
 ![Group Photo of InnoTech members at the School Open Day 2016.](https://raw.githubusercontent.com/CSWCSS-InnoTech/cswcss-innotech.github.io/master/group-photo2.jpg)
 
 ## Current Project
 
-### STEM Collaboration with Good Counsel Catholic Primary School
+### STEM Collaboration with [Good Counsel Catholic Primary School](http://www.gccps.edu.hk/website/)
 
 In partnership with Dyson, ICT-in-PE Foundation and other organizations, we have launched a STEM collaboration programme with Good Counsel Catholic Primary School. A total of 20 primary 5 and 6 students at Good Counsel are taught by InnoTech members on how to develop apps using MIT App Inventor 2. 
 
