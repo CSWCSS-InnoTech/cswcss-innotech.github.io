@@ -4,7 +4,7 @@ title: CSWCSS InnoTech Society
 
 ## Aim
 
-Founded in September 2016, we aim to promote the use and development of innovative technologies in the School and in the region.
+Founded in September 2016, we aim to promote the use and development of innovative technologies in [Cheung Sha Wan Catholic English Secondary School](http://www.cswcss.edu.hk/index/customIndex.aspx?nnnid=1) and in the region.
 
 ![Group Photo of InnoTech members at the School Open Day 2016.](https://raw.githubusercontent.com/CSWCSS-InnoTech/cswcss-innotech.github.io/master/group-photo2.jpg)
 
@@ -18,7 +18,7 @@ The aim of the project is to raise awareness of our increasing carbon footprint 
 
 ### InnoTech eLearn Platform
 
-Our eLearning platform developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using Xamarin for iOS, Android, and Windows Phone.
+[Our eLearning platform](https://github.com/CSWCSS-InnoTech/InnoTech-eLearning) developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using Xamarin for iOS, Android, and Windows Phone.
 
 ### Modern Technologies
 
