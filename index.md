@@ -11,11 +11,11 @@ Being selected by the Government of Hong Kong to receive a funding of HK$7 milli
 
 ![Group Photo of InnoTech members at the School Open Day 2016.](https://raw.githubusercontent.com/CSWCSS-InnoTech/cswcss-innotech.github.io/master/group-photo2.jpg)
 
-## Current Project
+## Current Projects
 
-### STEM Collaboration with [Good Counsel Catholic Primary School](http://www.gccps.edu.hk/website/)
-
-In partnership with Dyson, ICT-in-PE Foundation and other organizations, we have launched a STEM collaboration programme with Good Counsel Catholic Primary School. A total of 20 primary 5 and 6 students at Good Counsel are taught by InnoTech members on how to develop apps using MIT App Inventor 2. 
+### STEM Collaboration with Good Counsel Catholic Primary School
+In partnership with [Dyson](http://www.dyson.hk/), [ICT-in-PE Foundation](https://www.facebook.com/media/set/?set=a.438696202966909.1073741851.226636330839565&type=1) and other organizations, we have launched a STEM collaboration programme with [Good Counsel Catholic Primary School](http://www.gccps.edu.hk/website/)
+. A total of 20 primary 5 and 6 students at Good Counsel are taught by InnoTech members on how to develop apps using [MIT App Inventor 2](http://appinventor.mit.edu/explore/). 
 
 The aim of the project is to raise awareness of our increasing carbon footprint and promote ways to tackle the problem. We collect data about the use of tissue paper and dryers for drying hands, store the data with cloud technologies, analyse and calculate the carbon footprint, finally presenting the result using interactive ways and infographics.
 
@@ -25,11 +25,11 @@ The aim of the project is to raise awareness of our increasing carbon footprint 
 
 ### Modern Technologies
 
-Being in close relationship with major technology companies, such as IBM, Dyson, Microsoft, Citrix, students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the Microsoft Hololens, an MR headset. 
+Being in close relationship with major technology companies, such as [IBM](https://www.ibm.com/hk-en/), [Dyson](http://www.dyson.hk/), [Microsoft](https://www.microsoft.com/zh-hk/), [Citrix](https://www.citrix.com.tw/), students at InnoTech are often provided with the latest technologies. We are also the first local school in Hong Kong to use and develop using the [Microsoft Hololens](https://www.microsoft.com/en-us/hololens), an MR headset. 
 
 ### Participation in AppJamming Summit 2017
 
-Our 3 Android Apps Team presented their apps at AppJamming Summit competition semi-finals organised by First Code Academy on March 19. Pedosa Lifestyle by our president, Jordan Fung, got the Best Presentation Award.
+Our 3 Android Apps Team presented their apps at the [AppJamming Summit 2017](http://appjammingsummit.org/) competition semi-finals organised by the [First Code Academy](https://hk.firstcodeacademy.com/en) on March 19. Pedosa Lifestyle by our president, Jordan Fung, got the Best Presentation Award.
 1. [FitNest](https://play.google.com/store/apps/details?id=appinventor.ai_s14134.FitnessApp) by Kwan Lik Hang, Jack Yeung
 2. [Pedosa® Lifestyle](https://play.google.com/store/apps/details?id=appinventor.ai_jordanfung.Lifestyle) by Jordan Fung
 3. [Animation Life](https://play.google.com/store/apps/details?id=appinventor.ai_hli17500.AnimationLife) by Justin Wong, Joseph Li, Lee Law Louis Lam
