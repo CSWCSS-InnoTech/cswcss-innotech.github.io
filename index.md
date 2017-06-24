@@ -21,7 +21,7 @@ The aim of the project is to raise awareness of our increasing carbon footprint 
 
 ### InnoTech eLearn Platform
 
-[Our eLearning platform](https://github.com/CSWCSS-InnoTech/InnoTech-eLearning) developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using Xamarin for iOS, Android, and Windows Phone.
+[Our eLearning platform](https://github.com/CSWCSS-InnoTech/InnoTech-eLearning) developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using [Xamarin Forms](https://www.xamarin.com/forms) for iOS, Android, and Windows Phone. Download [eLearn Utilities here](https://play.google.com/store/apps/details?id=edu.cswcss.eLearning).
 
 ### Modern Technologies
 
@@ -30,9 +30,9 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 ### Participation in AppJamming Summit 2017
 
 Our 3 Android Apps Team presented their apps at AppJamming Summit competition semi-finals organised by First Code Academy on March 19. Pedosa Lifestyle by our president, Jordan Fung, got the Best Presentation Award.
-1. FitNest by Kwan Lik Hang, Jack Yeung
-2. Pedosa® Lifestyle by Jordan Fung
-3. Animation Life by Justin Wong, Joseph Li, Lee Law Louis Lam
+1. [FitNest](https://play.google.com/store/apps/details?id=appinventor.ai_s14134.FitnessApp) by Kwan Lik Hang, Jack Yeung
+2. [Pedosa® Lifestyle](https://play.google.com/store/apps/details?id=appinventor.ai_jordanfung.Lifestyle) by Jordan Fung
+3. [Animation Life](https://play.google.com/store/apps/details?id=appinventor.ai_hli17500.AnimationLife) by Justin Wong, Joseph Li, Lee Law Louis Lam
 
 ## Founding Members
 
